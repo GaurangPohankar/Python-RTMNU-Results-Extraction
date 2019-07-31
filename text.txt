@@ -1,0 +1,392 @@
+The leading operating system for PCs, IoT devices, servers and the cloud | Ubuntu
+Jump to main content
+Enterprise
+Developer
+Community
+Download
+OpenStack solutions ›
+Canonical is the leading provider of managed OpenStack. We help design, build and operate your cloud, and train your team to take over.
+Get OpenStack
+OpenStack solutions ›
+Get OpenStack
+Build private clouds
+Fully managed OpenStack
+Transfer and training
+Integration
+Support
+Kubernetes solutions ›
+Canonical delivers the leading Kubernetes distribution and provides workshops, training, deployment and consulting services. On VMware, cloud, OpenStack and bare metal.
+Get Kubernetes
+Kubernetes solutions ›
+Get Kubernetes
+Multicloud K8s on bare metal, VMware, and all public clouds
+Fully managed K8s
+Upgrades and automation included
+GPGPU support for AI/ML
+CI/CD with Rancher & Jenkins
+AI and ML workflows
+GKE with Ubuntu on Google Cloud
+AI and ML ›
+Ubuntu and Kubernetes from Canonical provide perfect multi cloud portability for your artificial intelligence and machine learning workloads.
+Get started with AI
+AI and ML ›
+Get started with AI
+Google TensorFlow and Kubeflow
+Nvidia’s ML stack uses Ubuntu
+AWS ML toolchain on Ubuntu
+Edge devices like Tegra running AI models
+Enterprise support ›
+Canonical provides 24/7 enterprise support, security, and break-fix engineering for Ubuntu, OpenStack, Docker and Kubernetes. Enterprise Linux done right.
+Get support
+Enterprise support ›
+Get support
+Kernel Live Patch
+Extended Ubuntu security
+Optimised Windows VMs
+Web-based remote management
+Compliance reporting
+Public cloud ›
+Use Ubuntu on AWS, Azure, Google, Oracle and IBM clouds
+Containers ›
+Install and operate Kubernetes
+Run legacy apps in LXD containers
+Data centre ›
+Metal as a Service provisioning
+Multi cloud operations
+Certified hardware
+Internet of Things ›
+Ubuntu Core - embedded, secure Ubuntu
+Digital signage and smart displays
+Robots and drones with Ubuntu
+Industrial gateways with Ubuntu
+Supported boards and SoCs
+Snaps - secure app packages
+Sector starting points
+Telco
+Finance
+Signage
+Robotics
+Gateways
+Organisations
+Fully managed
+OpenStack
+Kubernetes
+Resources
+Webinars
+Tutorials
+Videos
+Case studies
+White papers
+Docs
+Training
+Blog
+Press centre
+Support
+Enterprise support
+Security
+Certification
+Consulting
+Ubuntu
+OpenStack
+Kubernetes
+Canonical Livepatch
+Snapcraft
+Charming
+Develop on Ubuntu ›
+The best Linux platform for modern cloud and IoT development.
+Develop on Ubuntu ›
+GCC, CLANG
+Go
+Python, Ruby, Node.js
+Deb, snap, and charm packages
+Android development
+Architectures and ISAs
+Kernel selection & lifecycle
+Multipass ›
+Develop with Ubuntu
+Publish apps ›
+Deliver your app to millions of Ubuntu users, servers and devices.
+Publish apps ›
+Browse the snap store ›
+The snap command line interface ›
+Auto-build service for snaps ›
+Snap documentation ›
+Snap channels - track/risk/branch ›
+Cross-distro testing of snaps
+Rigorous snap security model
+Integration between snaps
+Publish with Snapcraft
+Devops
+Automate everything from development to production.
+Devops
+Ubuntu images on public clouds ›
+Minimal Ubuntu for containers ›
+Cloud-init - customise cloud instances ›
+Juju for standardised operations ›
+Canonical Distribution of Kubernetes ›
+MicroK8s - single node k8s for devs ›
+MAAS - fast server provisioning ›
+Multipass - Ubuntu on MacOS ›
+Make devices ›
+Use headless Ubuntu Server, or Ubuntu Core for embedded appliance security.
+Make devices ›
+Secure, embedded Ubuntu Core ›
+Make robots with app stores ›
+Industrial gateways and controllers ›
+Build a secure Ubuntu based kiosk ›
+The leading OS for digital signage ›
+Drones and autopilots ›
+Accelerate to market
+AI & Machine Learning ›
+Ubuntu delivers hardware acceleration on Nvidia for all clouds and bare metal.
+Kubeflow on Ubuntu ›
+AI/ML dev, test and production ›
+Tensorflow upstream, on Ubuntu ›
+Benchmark your Nvidia on Ubuntu
+MXNet on Ubuntu with Nvidia
+Pytorch · PaddPaddle · Chainer
+Develop for AI/ML
+Cloud packages ›
+A standard way to deploy and operate cloud software like Hadoop, Spark, OpenStack and Kubernetes.
+Discover Charm Packages
+Containers ›
+Kubernetes on Ubuntu ›
+Install K8s – workstations ›
+Install K8s – clouds and clusters ›
+Run pre-K8s apps in LXD containers ›
+Test CentOS apps on Ubuntu with LXD
+Tutorials
+Fun guides and HOWTOs covering Ubuntu cloud, desktop, server, community, IoT, packaging and more.
+How to write a tutorial ›
+Download
+Ubuntu Desktop
+Ubuntu Server
+IoT
+Cloud
+Alternative downloads
+Flavours
+Resources
+Docs
+Forum
+Tutorials
+Videos
+Webinars
+Whitepapers
+Blog
+Support
+Read the docs
+Ask Ubuntu
+IRC Channels
+Help
+Commercial Support
+Security
+Security notices
+Extended Security Maintenance
+Security
+Tools
+cloud-init
+conjure-up
+Juju
+Snapcraft
+Learn
+Learn
+Tutorials cover a wide range of topics. Learn or teach something new to Ubuntu users.
+Ubuntu Tutorials
+Ubuntu documentation
+Ubuntu events on Youtube
+The Juju Cloud Operations Show
+Contribute
+Contribute
+Discourse is a meeting point for people who shape the direction of Ubuntu. We recommend you start there.
+Ubuntu Discourse
+Translate Ubuntu into your language
+Improve the documentation
+Donate to the project
+Ethos
+Ethos
+The mission of Ubuntu is to bring the benefits of free software to the widest possible audience.
+Our mission
+Ubuntu Code of Conduct
+Meet
+Meet
+Ask Ubuntu — our StackExchange
+Join your Local Community team
+Meet up in the Ubuntu Forums
+Chat on IRC
+Follow
+Follow
+Ubuntu on Twitter
+Facebook
+Google&plus;
+Governance
+Governance
+Project Governance
+Community Council
+Diversity policy
+Connect
+Blog
+Weekly Newsletter
+Discourse
+Planet
+Teams
+LoCos
+Lists
+IRC
+Ubuntu Desktop ›
+Download Ubuntu desktop and replace your current operating system whether it’s Windows or Mac OS, or, run Ubuntu alongside it.
+18.04 LTS
+Ubuntu Server ›
+The most popular server Linux in the cloud and data centre, you can rely on Ubuntu Server and its five years of guaranteed free upgrades.
+18.04 LTS
+Use the traditional installer
+ARM
+IBM Power
+s390x
+Ubuntu for IoT ›
+Are you a developer who wants to try snappy Ubuntu Core or classic Ubuntu on an IoT board?
+Raspberry Pi 2 or 3
+Raspberry Pi Compute Module 3
+Intel NUC
+KVM
+Intel Joule
+Qualcomm Dragonboard 410c
+Samsung Artik 5 or 10
+UP2 IoT Grove
+Ubuntu Cloud ›
+Use Ubuntu optimised and certified server images on most major clouds.
+Get started on Amazon AWS, Microsoft Azure, Google Cloud Platform and more…
+Download cloud images for local development and testing
+Tutorials
+If you are already running Ubuntu - you can upgrade with the Software Updater
+Burn a DVD on Ubuntu, mac os, or Windows. Create a bootable USB stick on Ubuntu, mac os, or Windows
+Installation guides for Ubuntu Desktop and Ubuntu Server
+You can learn how to try Ubuntu before you install
+Read the docs
+Read the official docs for Ubuntu Desktop, Ubuntu Server, and Ubuntu Core
+Other ways to download
+Ubuntu is available via BitTorrents and via a minimal network installer that allows you to customise what is installed, such as additional languages. You can also find older releases.
+Ubuntu flavours
+Find new ways to experience Ubuntu, each with their own choice of default applications and settings.
+Kubuntu
+Lubuntu
+Mythbuntu
+Ubuntu Budgie
+Ubuntu Kylin
+Ubuntu MATE
+Ubuntu Studio
+Xubuntu
+Selecting the optimum OS for your robot
+Analysing the factors for development and production stages.
+Download whitepaper
+Download whitepaper
+Future-proofing Fingbox the IoT home network monitoring device
+Learn how Fing uses Ubuntu Core and Snaps to speed development, save budget and resources and ensure a future-proofed product.
+Watch the webinar
+How to build and deploy your first AI/ML model on Ubuntu
+We will walk you through running a Kaggle experiment using Kubeflow on Microk8s.
+Register for the webinar
+Register for the webinar
+Von VMware zu Canonical OpenStack
+Sehen Sie sich unser Demonstrationsvideo zu Kosten und Migration an!
+Registrieren zum webinar
+Registrieren zum webinar
+Latest news from our blog
+OpenStack Summit Berlin 2018
+12 October 2018
+Firefox ESR 60 availability on Ubuntu
+12 October 2018
+Plex arrives in Canonical’s Snap Store
+11 October 2018
+Spotlight
+IoT Graphics: Mir Release 1.0
+21 September 2018
+View more from our blog
+Ubuntu is an open source software operating system that runs from the desktop, to the cloud, to all your internet connected things
+Cloud
+Server
+Containers
+Desktop
+IoT
+The world’s most popular operating system across public clouds and OpenStack clouds ›
+Find out more about Ubuntu’s cloud building software, tools and service packages.
+The fastest way to go from development to production in IoT ›
+Learn about how Ubuntu Core and snaps can help you build your connected devices.
+The number one platform for containers ›
+From LXD to Kubernetes to Docker, Ubuntu can run your containers at scale.
+Fast, secure and simple, Ubuntu powers millions of PCs worldwide ›
+Download the latest version of Ubuntu, for desktop PCs and laptops.
+Watch our Kubernetes webinars ›
+A series of on-demand webinars to learn more about Canonical’s Distribution of Kubernetes.
+OpenStack costs increasing? ›
+Keep control of costs with our four-step approach to OpenStack upgrades.
+Back to top
+OpenStack
+What is OpenStack
+Features
+Managed
+Consulting
+Training
+Storage
+Install
+Partners
+Kubernetes
+Features
+Managed
+Install
+Partners
+AI
+Features
+Install
+Desktop
+Features
+Organisations
+Developers
+Partners
+Server
+Hyperscale
+Livepatch
+IoT
+Digital signage
+Robotics
+Gateways
+App store
+Support
+Community support
+Plans and pricing
+ESM
+Downloads
+Cloud
+IoT
+Server
+Desktop
+Alternative downloads
+Ubuntu flavours
+Sectors
+Telco
+Finance
+Signage
+Robotics
+Gateways
+Organisations
+Security
+Public cloud
+Containers
+Core
+Resources
+Contact us
+Contact us
+About us
+Community
+Careers
+Press centre
+© 2018 Canonical Ltd. Ubuntu and Canonical are registered trademarks of Canonical Ltd.
+Legal information
+Data privacy
+Report a bug on this site
+Go to the top of the page
+Site feedback
+User feedback
+Close
+Did you find what you were looking for?
+Thank you for your response.
+Tell us more using this quick online survey ›
